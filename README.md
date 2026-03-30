@@ -1,7 +1,7 @@
 ### 🌐 Internet Usage Analysis with Python
 
 Click Link :
-**[High speed Railway Project](https://github.com/BlessingNehohwa/High-Speed-Railway-Analysis/blob/main/Analyzing%20High-Speed%20Railway%20Delays.ipynb
+**[High speed Railway Project](https://github.com/BlessingNehohwa/Internet-Use-Project/blob/main/Internet%20Use%20Analysis%20Project%20.ipynb
 ).**
 
 #### 📌 Project Overview
