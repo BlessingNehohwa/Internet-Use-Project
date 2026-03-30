@@ -1,13 +1,14 @@
 ### 🌐 Internet Usage Analysis with Python
 
-Click Link :
-**[Internet Use Project](https://github.com/BlessingNehohwa/Internet-Use-Project/blob/main/Internet%20Use%20Analysis%20Project%20.ipynb
-).**
-
 #### 📌 Project Overview
 In this project, I analyze global internet usage trends using data from **Our World in Data**, sourced from the **World Bank** and the **International Telecommunications Union (ITU)**.
 The goal is to understand how internet adoption has evolved over time across different countries, regions, and income groups.
 ---
+
+Click Link :
+**[Internet Use Project](https://github.com/BlessingNehohwa/Internet-Use-Project/blob/main/Internet%20Use%20Analysis%20Project%20.ipynb
+).**
+
 #### 🎯 Key Questions Explored
 This project answers important real-world questions such as:
 - ⏱️ How long does it take for internet usage to reach the majority (>50%) of the population in different countries and regions?
